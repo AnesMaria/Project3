@@ -1,5 +1,4 @@
-# Project3
-# Recommendation Systems with IBM Watson Studio Data
+# Project3 : Recommendation Systems with IBM Watson Studio Data.
 # Introduction
 This project, part of the Udacity Data Scientist Nanodegree Program, dives into the world of recommendation systems. We harness real data from IBM Watson Studio to craft pertinent article recommendations.
 
