@@ -10,6 +10,8 @@ Pandas
 Matplotlib
 Seaborn
 # Key Insights from Data Exploration
+in the project, the data was explored to understand the number of users, articles, and details about the interactions that occur between them.
+
 The dataset boasts 5148 distinct users and encapsulates 45,993 user-article interactions.
 On average, a user interacts with about 9 articles. Yet, the median is lower, showing that 50% of users engage with just 3 articles or fewer.
 Of the 1051 articles available, 714 have garnered at least one interaction.
